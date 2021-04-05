@@ -16,5 +16,5 @@ CSS
 Flex
 Vanila JavaScript
 
-* [Ссылка проекта на хостинге GitHub Pages](https://stanmur.github.io/)
+* [Ссылка проекта на хостинге GitHub Pages](https://stanmur.github.io/pop-up/index.html)
 
