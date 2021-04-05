@@ -1,6 +1,4 @@
-<<<<<<< HEAD
-# pop-up
-=======
+
 # PopUp (модальное окно)
 
 ### Обзор
@@ -19,4 +17,4 @@ Flex
 Vanila JavaScript
 
 * [Ссылка проекта на хостинге GitHub Pages](https://stanmur.github.io/)
->>>>>>> master
+
